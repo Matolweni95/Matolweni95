@@ -100,8 +100,6 @@ Next.js → **Cloud Computing** (current focus)
 
 ## Current Focus
 
-- Building full-stack applications with modern frameworks
-- Learning React to complete the frontend framework trinity
 - Exploring advanced TypeScript patterns
 - Creating developer tools and utilities
 - Working on interactive web applications
