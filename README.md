@@ -1,22 +1,22 @@
-# Hey there! 👋 I'm Matolweni95
+# Hey there! 👋 I'm Masixole Matolweni
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+%7C+Python+%7C+JavaScript;Building+Cool+Stuff+Daily;From+Johannesburg%2C+SA" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const matolweni = {
-    location: "Randburg, Gauteng, South Africa 🇿🇦",
+    location: "Durban, KZN, South Africa 🇿🇦",
     code: ["C#", "Python", "JavaScript", "TypeScript"],
     frameworks: ["React", "Angular", "Vue.js", ".NET"],
-    currentFocus: "Building full-stack applications",
-    funFact: "I love creating GitHub profilers in different frameworks!"
+    currentFocus: "Building full-stack applications for SME's",
+    funFact: "I'm a very good chess player!"
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -39,9 +39,9 @@ const matolweni = {
 
 **Hardware & OS:**
 ```
-💻 MacBook (because Unix life chose me)
-🌙 Dark theme everything (my eyes thank me)
-⌨️  Mechanical keyboard enthusiast
+MacBook (because Unix life chose me)
+Dark theme everything (my eyes thank me)
+Mechanical keyboard enthusiast
 ```
 
 **VS Code Extensions (The Essentials):**
@@ -74,13 +74,13 @@ C# → PHP → SQL → JavaScript
 Angular → React → Vue.js (the holy trinity complete!)
 
 **Backend & Data**
-Python → Django → Java → PostgreSQL
+Python → Django → Java → PostgreSQL → Flask
 
 **Modern Stack Evolution**
 Next.js → **Cloud Computing** (current focus)
 
 **What's Next:**
-- **Cloud Architecture** (AWS/Azure deep dive)
+- **Cloud Architecture** (AWS/Azure/Oracle deep dive)
 - **Containerization** (Docker, Kubernetes)
 - **AI Integration** (because who doesn't want smart apps?)
 - **Mobile Development** (React Native or Flutter)
