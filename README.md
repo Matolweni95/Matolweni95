@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Masixole Matolweni
+# Hey there! I'm Masixole Matolweni
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+%7C+Python+%7C+JavaScript;Building+Cool+Stuff+Daily;From+Johannesburg%2C+SA" alt="Typing SVG" />
@@ -12,7 +12,7 @@ const masixole = {
     code: ["C#", "Python", "JavaScript", "TypeScript"],
     frameworks: ["React", "Angular", "Vue.js", ".NET", "Tailwind CSS"],
     currentFocus: "Building full-stack applications",
-    funFact: "I love creating GitHub profilers in different frameworks!"
+    funFact: "I'm a very good chess player!"
 };
 ```
 
