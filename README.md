@@ -106,16 +106,6 @@ Next.js → **Cloud Computing** (current focus)
 - Creating developer tools and utilities
 - Working on interactive web applications
 
-## Let's Connect
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Matolweni95)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Matolweni95&color=blue&style=flat-square" alt="Profile Views"/>
 </div>
