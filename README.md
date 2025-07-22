@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Masixole Matolweni
+# Hey there! 👋 I'm Matolweni95
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+%7C+Python+%7C+JavaScript;Building+Cool+Stuff+Daily;From+Johannesburg%2C+SA" alt="Typing SVG" />
@@ -35,27 +35,55 @@ const matolweni = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## 🔥 Featured Projects
+## 🖥️ Dev Setup
 
-### 🎮 [Pokemon App](https://github.com/Matolweni95/Pokemon)
-> TypeScript-powered Pokemon application with modern UI/UX
-- **Tech**: TypeScript
-- **Status**: Active Development
+**Hardware & OS:**
+```
+💻 MacBook (because Unix life chose me)
+🌙 Dark theme everything (my eyes thank me)
+⌨️  Mechanical keyboard enthusiast
+```
 
-### 📝 [Quiz App](https://github.com/Matolweni95/my-quiz-app)
-> Interactive quiz application with dynamic question handling
-- **Tech**: JavaScript
-- **Features**: Dynamic questions, scoring system
+**VS Code Extensions (The Essentials):**
+- **Productivity**: Prettier, ESLint, GitLens, Thunder Client
+- **UI Magic**: Bracket Pair Colorizer, Indent Rainbow, Material Icon Theme
+- **The Fun Stuff**: Error Lens (for dramatic error highlighting), vscode-pets (desktop pets while coding), Power Mode (screen shakes on typing)
+- **Framework Specific**: ES7+ React/Redux/RN snippets, Angular Language Service, Vetur
 
-### 👤 GitHub Profilers Collection
-I've built GitHub profile viewers in multiple frameworks:
-- **[Angular Profiler](https://github.com/Matolweni95/AngularGithubProfiler)** - TypeScript/Angular
-- **[Vue Profiler](https://github.com/Matolweni95/VueGithubProfiler)** - Vue.js
+## 💭 Tech Philosophy
 
-### 🧾 [Invoice App](https://github.com/Matolweni95/invoice-app)
-> Professional invoice management system
-- **Tech**: JavaScript
-- **Purpose**: Business invoice handling
+> **"Plan everything, user comes first, layout is king"**
+
+I believe in creating interfaces that are not only beautiful but also accessible and functional for all users. My approach combines clean aesthetics with thoughtful interactions to build experiences that feel natural and intuitive.
+
+**Core Principles:**
+- 🎨 **Design First**: Layout and user experience drive technical decisions
+- ♿ **Accessibility Matters**: Building for everyone, not just some
+- 🧹 **Clean Code**: Write code that tells a story
+- 🚀 **Performance**: Beautiful means nothing if it's slow
+- 📱 **Mobile First**: Responsive by design, not by accident
+
+## 🎯 Learning Path
+
+My journey through the tech landscape:
+
+**The Foundation Era**
+C# → PHP → SQL → JavaScript
+
+**Frontend Mastery Phase**
+Angular → React → Vue.js (the holy trinity complete!)
+
+**Backend & Data**
+Python → Django → Java → PostgreSQL
+
+**Modern Stack Evolution**
+Next.js → **Cloud Computing** (current focus)
+
+**What's Next:**
+- ☁️ **Cloud Architecture** (AWS/Azure deep dive)
+- 🐳 **Containerization** (Docker, Kubernetes)
+- 🤖 **AI Integration** (because who doesn't want smart apps?)
+- 📱 **Mobile Development** (React Native or Flutter)
 
 ## 📊 GitHub Stats
 
