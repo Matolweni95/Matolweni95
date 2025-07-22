@@ -105,7 +105,3 @@ Next.js → **Cloud Computing** (current focus)
 - Exploring advanced TypeScript patterns
 - Creating developer tools and utilities
 - Working on interactive web applications
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matolweni95&color=blue&style=flat-square" alt="Profile Views"/>
-</div>
