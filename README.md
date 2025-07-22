@@ -57,13 +57,13 @@ const matolweni = {
 I believe in creating interfaces that are not only beautiful but also accessible and functional for all users. My approach combines clean aesthetics with thoughtful interactions to build experiences that feel natural and intuitive.
 
 **Core Principles:**
-- 🎨 **Design First**: Layout and user experience drive technical decisions
-- ♿ **Accessibility Matters**: Building for everyone, not just some
-- 🧹 **Clean Code**: Write code that tells a story
-- 🚀 **Performance**: Beautiful means nothing if it's slow
-- 📱 **Mobile First**: Responsive by design, not by accident
+- **Design First**: Layout and user experience drive technical decisions
+- **Accessibility Matters**: Building for everyone, not just some
+- **Clean Code**: Write code that tells a story
+- **Performance**: Beautiful means nothing if it's slow
+- **Mobile First**: Responsive by design, not by accident
 
-## 🎯 Learning Path
+## Learning Path
 
 My journey through the tech landscape:
 
@@ -80,12 +80,12 @@ Python → Django → Java → PostgreSQL
 Next.js → **Cloud Computing** (current focus)
 
 **What's Next:**
-- ☁️ **Cloud Architecture** (AWS/Azure deep dive)
-- 🐳 **Containerization** (Docker, Kubernetes)
-- 🤖 **AI Integration** (because who doesn't want smart apps?)
-- 📱 **Mobile Development** (React Native or Flutter)
+- **Cloud Architecture** (AWS/Azure deep dive)
+- **Containerization** (Docker, Kubernetes)
+- **AI Integration** (because who doesn't want smart apps?)
+- **Mobile Development** (React Native or Flutter)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matolweni95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -96,13 +96,13 @@ Next.js → **Cloud Computing** (current focus)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matolweni95&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔭 Building full-stack applications with modern frameworks
-- ⚛️ Learning React to complete the frontend framework trinity
-- 🌱 Exploring advanced TypeScript patterns
-- 💡 Creating developer tools and utilities
-- 🎮 Working on interactive web applications
+- Building full-stack applications with modern frameworks
+- Learning React to complete the frontend framework trinity
+- Exploring advanced TypeScript patterns
+- Creating developer tools and utilities
+- Working on interactive web applications
 
 ## 🤝 Let's Connect
 
@@ -116,8 +116,4 @@ Next.js → **Cloud Computing** (current focus)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Matolweni95&color=blue&style=flat-square" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <i>⭐️ From [Matolweni95](https://github.com/Matolweni95) with ❤️ from Johannesburg 🇿🇦</i>
 </div>
