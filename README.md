@@ -7,7 +7,7 @@
 ## About Me
 
 ```javascript
-const matolweni = {
+const masixole = {
     location: "Durban, KZN, South Africa 🇿🇦",
     code: ["C#", "Python", "JavaScript", "TypeScript"],
     frameworks: ["React", "Angular", "Vue.js", ".NET", "Tailwind CSS"],
