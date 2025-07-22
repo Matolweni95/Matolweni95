@@ -10,9 +10,9 @@
 const matolweni = {
     location: "Durban, KZN, South Africa 🇿🇦",
     code: ["C#", "Python", "JavaScript", "TypeScript"],
-    frameworks: ["React", "Angular", "Vue.js", ".NET"],
-    currentFocus: "Building full-stack applications for SME's",
-    funFact: "I'm a very good chess player!"
+    frameworks: ["React", "Angular", "Vue.js", ".NET", "Tailwind CSS"],
+    currentFocus: "Building full-stack applications",
+    funFact: "I love creating GitHub profilers in different frameworks!"
 };
 ```
 
@@ -29,13 +29,15 @@ const matolweni = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
 
-## 🖥️ Dev Setup
+## Dev Setup
 
 **Hardware & OS:**
 ```
@@ -104,7 +106,7 @@ Next.js → **Cloud Computing** (current focus)
 - Creating developer tools and utilities
 - Working on interactive web applications
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
   
