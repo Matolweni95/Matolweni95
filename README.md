@@ -49,7 +49,7 @@ Mechanical keyboard enthusiast
 **VS Code Extensions (The Essentials):**
 - **Productivity**: Prettier, ESLint, GitLens, Thunder Client
 - **UI Magic**: Bracket Pair Colorizer, Indent Rainbow, Material Icon Theme
-- **The Fun Stuff**: Error Lens (for dramatic error highlighting), vscode-pets (desktop pets while coding), Power Mode (screen shakes on typing)
+- **The Fun Stuff**: Error Lens, vscode-pets, Power Mode
 - **Framework Specific**: ES7+ React/Redux/RN snippets, Angular Language Service, Vetur
 
 ## 💭 Tech Philosophy
