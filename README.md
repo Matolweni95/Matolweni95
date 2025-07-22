@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Matolweni95
+# Hey there! 👋 I'm Masixole Matolweni
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+%7C+Python+%7C+JavaScript;Building+Cool+Stuff+Daily;From+Johannesburg%2C+SA" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 const matolweni = {
     location: "Randburg, Gauteng, South Africa 🇿🇦",
     code: ["C#", "Python", "JavaScript", "TypeScript"],
-    frameworks: ["Angular", "Vue.js", ".NET"],
+    frameworks: ["React", "Angular", "Vue.js", ".NET"],
     currentFocus: "Building full-stack applications",
     funFact: "I love creating GitHub profilers in different frameworks!"
 };
@@ -25,6 +25,7 @@ const matolweni = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -70,6 +71,7 @@ I've built GitHub profile viewers in multiple frameworks:
 ## 🎯 Current Focus
 
 - 🔭 Building full-stack applications with modern frameworks
+- ⚛️ Learning React to complete the frontend framework trinity
 - 🌱 Exploring advanced TypeScript patterns
 - 💡 Creating developer tools and utilities
 - 🎮 Working on interactive web applications
