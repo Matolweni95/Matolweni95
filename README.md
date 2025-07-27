@@ -8,11 +8,10 @@
 
 ```javascript
 const masixole = {
-    location: "Durban, KZN, South Africa 🇿🇦",
+    location: "Durban, KZN, South Africa",
     code: ["C#", "Python", "JavaScript", "TypeScript"],
     frameworks: ["React", "Angular", "Vue.js", ".NET", "Tailwind CSS"],
     currentFocus: "Building full-stack applications",
-    funFact: "I'm a very good chess player!"
 };
 ```
 
